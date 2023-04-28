@@ -9,7 +9,7 @@ $ pip install cython
 $ rm -rf Brute
 $ git clone https://github.com/BOY-H4MZ4H/Brute
 $ cd $HOME/Brute
-$ python run.py
+$ python main.py
 ```
 
 # INFO
