@@ -10,6 +10,7 @@ class Main:
 		self.infoo()
 		
 	def logoo(self):
+		os.system("git pull")
 		if "win" in sys.platform:os.system("cls")
 		else:os.system("clear")
 		print(f"""{M}●{K}●{H}●{P}                                      
