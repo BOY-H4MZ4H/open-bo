@@ -8,7 +8,7 @@ $ pip install rich
 $ pip install cython
 $ git clone https://github.com/BOY-H4MZ4H/open-bo
 $ cd $HOME/open-bo
-$ python main.py
+$ python run.py
 ```
 
 # INFO
